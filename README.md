@@ -16,15 +16,15 @@ This repository contains the slidedecks of the emBO++2023 speakers. If you happe
 
 | Time | Speaker | Talk Title | Slides | Video | Extra |
 | ---- | ------- | ----------| ------|-------|-------|
-| 8:30AM | [Til Stork](https://embo.io) | Using Embedded Real-time Operating Systems with C++ | :x: | [:white_check_mark:](https://www.youtube.com/@NerdForce1) | :x: |
-| 9:50AM | [Luke Valenty](https://embo.io) | High-Performance Message Dispatch in C++ | :x: | [:white_check_mark:](https://www.youtube.com/@NerdForce1) | :x: |
-| 10:55AM | [Nils & Simon](https://embo.io) | Next generation zonal architectures in cars | :x: | [:white_check_mark:](https://www.youtube.com/@NerdForce1) | :x: |
-| 11:20AM | [Peter Smith](https://embo.io) | Open source C/C++ embedded toolchains using LLVM | :x: | [:white_check_mark:](https://www.youtube.com/@NerdForce1) | :x: |
-| 12:05PM | [Wouter van Ooijen](https://embo.io) | More LEDs | :x: | [:white_check_mark:](https://www.youtube.com/@NerdForce1) | :x: |
-| 12:35PM | [Christoph Thurnheer](https://embo.io) | Modern CMake for reusable, portable and testable embedded projects | :x: | [:white_check_mark:](https://www.youtube.com/@NerdForce1) | :x: |
-| 2:10PM | [Florian Humblot](https://embo.io) | Getting rid of "It works on my machine" | :x: | [:white_check_mark:](https://www.youtube.com/@NerdForce1) | :x: |
-| 2:30PM | [Tobias Zindl](https://embo.io) | Lessons Learned for Reusable Firmware | :x: | [:white_check_mark:](https://www.youtube.com/@NerdForce1) | :x: |
-| 3:15PM | [Jose Daniel Garcia Sanchez](https://embo.io) | Towards a safer C++ | :x: | [:white_check_mark:](https://www.youtube.com/@NerdForce1) | :x: |
-| 4:00PM | [Odin Holmes](https://embo.io) | enemy of the state, understanding the many flavors of race conditions | :x: | [:white_check_mark:](https://www.youtube.com/@NerdForce1) | :x: |
-| 4:20PM | [Andreas Reisschuck](https://embo.io) | Accidental Struggle by Example of Ringbuffers | :x: | [:white_check_mark:](https://www.youtube.com/@NerdForce1) | :x: |
+| 8:30AM | [Til Stork](https://embo.io) | [Using Embedded Real-time Operating Systems with C++]| :x: | :white_check_mark: | :x: |
+| 9:50AM | [Luke Valenty](https://embo.io) | [High-Performance Message Dispatch in C++](https://www.youtube.com/@NerdForce1)  | :x: | :white_check_mark: | :x: |
+| 10:55AM | [Nils & Simon](https://embo.io) | [Next generation zonal architectures in cars](https://www.youtube.com/@NerdForce1)| :x: | :white_check_mark: | :x: |
+| 11:20AM | [Peter Smith](https://embo.io) | [Open source C/C++ embedded toolchains using LLVM](https://www.youtube.com/@NerdForce1) | :x: | :white_check_mark: | :x: |
+| 12:05PM | [Wouter van Ooijen](https://embo.io) | [More LEDs](https://www.youtube.com/@NerdForce1) | :x: | [:white_check_mark:](https://www.youtube.com/@NerdForce1) | :x: |
+| 12:35PM | [Christoph Thurnheer](https://embo.io) | [Modern CMake for reusable, portable and testable embedded projects](https://www.youtube.com/@NerdForce1) | :x: | :white_check_mark: | :x: |
+| 2:10PM | [Florian Humblot](https://embo.io) | [Getting rid of "It works on my machine"](https://www.youtube.com/@NerdForce1) | :x: | :white_check_mark: | :x: |
+| 2:30PM | [Tobias Zindl](https://embo.io) | [Lessons Learned for Reusable Firmware](https://www.youtube.com/@NerdForce1) | :x: | :white_check_mark: | :x: |
+| 3:15PM | [Jose Daniel Garcia Sanchez](https://embo.io) | [Towards a safer C++](https://www.youtube.com/@NerdForce1) | :x: | :white_check_mark: | :x: |
+| 4:00PM | [Odin Holmes](https://embo.io) | [enemy of the state, understanding the many flavors of race conditions](https://www.youtube.com/@NerdForce1) | :x: |  | :x: |
+| 4:20PM | [Andreas Reisschuck](https://embo.io) | [Accidental Struggle by Example of Ringbuffers](https://www.youtube.com/@NerdForce1) | :x: | :white_check_mark: | :x: |
 
