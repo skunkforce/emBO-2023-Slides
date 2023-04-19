@@ -20,7 +20,7 @@ This repository contains the slidedecks of the emBO++2023 speakers. If you happe
 |[Nils & Simon](https://embo.io) | [Next generation zonal architectures in cars](https://www.youtube.com/@NerdForce1)| :x: | :x: | :x: |
 |[Wouter van Ooijen](https://embo.io) | [More LEDs](https://www.youtube.com/@NerdForce1) | :x: | :x: | :x: |
 |[Christoph Thurnheer](https://embo.io) | [Modern CMake for reusable, portable and testable embedded projects](https://www.youtube.com/@NerdForce1) | :x: | :x: | :x: |
-|[Florian Humblot](https://embo.io) | [Getting rid of "It works on my machine"](https://www.youtube.com/@NerdForce1) | :white_check_mark: | :x: | :x: |
+|[Florian Humblot](https://github.com/florianhumblot) | [Getting rid of "It works on my machine"](https://www.youtube.com/@NerdForce1) | :white_check_mark: | :x: | :x: |
 |[Tobias Zindl](https://embo.io) | [Lessons Learned for Reusable Firmware](https://www.youtube.com/@NerdForce1) | :white_check_mark: | :x: | :x: |
 |[Jose Daniel Garcia Sanchez](https://embo.io) | [Towards a safer C++](https://www.youtube.com/@NerdForce1) | :white_check_mark: | :x: | :x: |
 |[Odin Holmes](https://github.com/odinthenerd) | [enemy of the state, understanding the many flavors of race conditions](https://www.youtube.com/@NerdForce1) | :white_check_mark: | :x: | :x: |
