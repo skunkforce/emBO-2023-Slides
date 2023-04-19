@@ -4,7 +4,7 @@ This repository contains the slidedecks of the emBO++2023 speakers. If you happe
 | Sprecher          | Titel                                                                                                     | Slides | Video | Extra |
 |------------------|-----------------------------------------------------------------------------------------------------------|:------:|:-----:|:-----:|
 |[Filipe Mulonde](https://embo.io)   | [The foundation of embedded DRAM Memory](https://www.youtube.com/@NerdForce1)                            | :x:  |  :x:  |  :x:  |
-|[Daniel Penning](https://embo.io)   | [Open Loop Testing - The missing link for embedded testing?](https://www.youtube.com/@NerdForce1)       |   :x:    | :x:  |  :x:  |
+|[Daniel Penning](https://github.com/DanielPenning)   | [Open Loop Testing - The missing link for embedded testing?](https://www.youtube.com/@NerdForce1)       |   :x:    | :x:  |  :x:  |
 |[Detlef Vollmann](https://embo.io)  | [Using Both Cores of Raspberry Pi Pico with C++OS](https://www.youtube.com/@NerdForce1)                  |   :white_check_mark:    |  :x:  |  :x:  |
 |[Philipp Michel](https://embo.io)   | [Low Code/No Code Design Paradigm for Multi-OS Cockpit](https://www.youtube.com/@NerdForce1)             |   :white_check_mark:    |  :x:  | :x:  |
 |[Jonas Nussdorfer](https://embo.io) | [Molding VS Code into a care-free development environment to develop with Zephyr RTOS](https://www.youtube.com/@NerdForce1) |  :white_check_mark:    |  :x: |  :x:  |
