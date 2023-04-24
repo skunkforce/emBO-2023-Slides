@@ -11,7 +11,7 @@ This repository contains the slidedecks of the emBO++2023 speakers. If you happe
 |[Jörn Seger](https://embo.io)       | [How Artificial Intelligence is Changing the Face of Computing and Development](https://www.youtube.com/@NerdForce1) |   :x:    |  :x:  |  :x:  |
 |[Nino Vidovic](https://embo.io)     | [RISC-V tracing. What is different?](https://www.youtube.com/@NerdForce1)                               |   :white_check_mark:    |  :x:  |  :x:  |
 |[Max Hoffmann](https://embo.io)     | [Embedded C and C++: A Security Perspective](https://www.youtube.com/@NerdForce1)                       |   :x:    |   :x: |  :x:  |
-|[Benjamin Kollenda](https://embo.io) | [Embedded Device Exploitation 101: An Introduction to Firmware Hacking](https://www.youtube.com/@NerdForce1) |  :white_check_mark:  |  :x: |  :x:  |
+|[Benjamin Kollenda](https://embo.io) | [Embedded Device Exploitation 101: An Introduction to Firmware Hacking🔗](https://youtu.be/6GKGkgo6hHU) |  :white_check_mark:  |  :white_check_mark: |  :x:  |
 |[Luke Valenty](https://embo.io) | [High-Performance Message Dispatch in C++](https://www.youtube.com/@NerdForce1)  | :x: | :x: | :x: |
 |[Nils & Simon](https://embo.io) | [Next generation zonal architectures in cars](https://www.youtube.com/@NerdForce1)| :x: | :x: | :x: |
 |[Peter Smith](https://embo.io) | [Open source C/C++ embedded toolchains using LLVM](https://www.youtube.com/@NerdForce1) | :white_check_mark: | :x: | :x: |
